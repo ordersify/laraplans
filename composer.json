@@ -1,5 +1,5 @@
 {
-    "name": "gerardojbaez/laraplans",
+    "name": "ordersify/laraplans",
     "description": "SaaS style recurring plans for Laravel.",
     "keywords": ["plans", "laravel", "subscriptions", "memberships"],
     "license": "MIT",
