@@ -6,9 +6,9 @@
     "type": "library",
     "require": {
         "php": ">=7.1.3",
-        "nesbot/carbon": "~2.0",
-        "illuminate/support": "5.8.*",
-        "illuminate/database": "5.8.*"
+        "nesbot/carbon": "*",
+        "illuminate/support": "*",
+        "illuminate/database": "*"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",
